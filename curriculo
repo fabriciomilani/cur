@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html> 
+<head>
+  <meta charset="UTF-8">
+  <title>- Currículo</title>
+
+</head>
+<body>
+  <h1>NOME FABRICIO MILANI</h1>
+  <img src=" https://ichef.bbci.co.uk/news/660/amz/worldservice/live/assets/images/2015/09/26/150926165742__85730600_monkey2.jpg" alt="Sua Foto">
+
+  <h2>Sumário</h2>
+  <ul>
+    <li><a href="#dados-contato">Dados de Contato</a></li>
+    <li><a href="#dados-trabalho">Dados de Trabalho</a></li>
+    <li><a href="#dados-formacao">Dados da Formação:</a></li>
+  </ul>
+
+  <h2 id="dados-contato">Dados de Contato</h2>
+  <p>Endereço: alto bela vista</p>
+  <p>Email:fabriciomilani132@gmail.com</p>
+  <p>Telefone: (46) 99905-3629</p>
+
+  <h2 id="dados-trabalho">Dados de Trabalho</h2>
+  <p>Empresa atual: nasa</p>
+  <p>Cargo: astronalta</p>
+  <p>Descrição das responsabilidades e atividades em seu trabalho atual: ir ate a lua</p>
+
+  <!-- Você pode adicionar mais informações sobre outros trabalhos anteriores, se necessário -->
+
+  <h2 id="dados-formacao">Dados da Formação</h2>
+  <p>Nível de formação: Nível da Formação (pós graduado em astronomia)</p>
+  <p>Curso: astronomia</p>
+  <p>Instituição:harvard</p>
+  <p>Ano de conclusão: 2021</p>
+
+  <!-- Adicione outras informações de formação, se aplicável -->
+
+  <h2>Links</h2>
+  <ul>
+    <li><a href="https://github.com/seu_usuario_github">GitHub</a></li>
+    <li><a href="https://www.linkedin.com/feed/?trk=onboarding-landing">LinkedIn</a></li>
+  </ul>
+
+</body>
+</html>
